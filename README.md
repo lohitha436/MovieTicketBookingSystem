@@ -19,7 +19,7 @@ Contributors
 - D.Lohitha
 
 Project Repository
-Check out the project on GitHub: [Movie Ticket Booking System](https://github.com/lohitha436/MovieTicketBooking)
+Check out the project on GitHub: [Movie Ticket Booking System](https://github.com/lohitha436/MovieTicketBookingSystem)
 
 Future Enhancements
 - Integration with online payment gateways.
