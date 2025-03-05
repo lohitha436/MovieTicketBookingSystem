@@ -17,9 +17,7 @@ Contributors
 - V. Sreshta Reddy
 - K. Vaidehi
 - D.Lohitha
-
-Project Repository
-Check out the project on GitHub: [Movie Ticket Booking System](https://github.com/lohitha436/MovieTicketBookingSystem)
+- Ch.Harika
 
 Future Enhancements
 - Integration with online payment gateways.
