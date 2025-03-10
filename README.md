@@ -14,10 +14,10 @@ Technologies Used
 - Database: MySQL Workbench
 
 Contributors
-- V. Sreshta Reddy
-- K. Vaidehi
 - D.Lohitha
+- V. Sreshta Reddy
 - Ch.Harika
+- K. Vaidehi
 
 Future Enhancements
 - Integration with online payment gateways.
